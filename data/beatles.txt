@@ -1,0 +1,5 @@
+John,Lennon,Guitar,42
+Paul,McCartney,Bass Guitar,35
+George,Harrison,Lead Guitar,42
+Ringo,Starr,Drums,45
+Gabriel,Schiavo,Guitar,26
